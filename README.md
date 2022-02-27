@@ -1,3 +1,1 @@
-
-• Multiple Updates To All Classes For Pixel Based Rotations
-• test of the new system
+Added Auto Heal. 10+ Classes Supported
