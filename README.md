@@ -1,3 +1,4 @@
-New .exe To Assure All Users Are Using the same Version!!
-
-Net Fishing Fixed
+Removed The Broken Sicc Rotation
+Added DeadEyeV3
+Added SoulFistV2 
+Added Beta KryoSorc
