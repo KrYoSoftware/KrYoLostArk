@@ -1,3 +1,7 @@
-Bunch Of New Rotation Versions!! They contain ( New Logic)) In the Rotation File Name! Feedback In discord please & thanks!!!
+Updated Multiple Profiles!
 
-New EXE Also!
+Many Versions To Pick From & Provide Feedback!
+
+Most Rotations Perform Better KeyBound To XButton1 (Side Mouse Button)
+
+Other Rotations Perform Better On Your Auto Attack  (Left Or Right Mouse Button)
