@@ -1,3 +1,3 @@
-Bunch Of New Rotation Versions!! They contain ( New Logic)) In the Rotation File Name! Feedback In discord please & thanks!!!
+Various Changes!  Added Support For AUTO Attack In Combat.
 
-New EXE Also!
+( Must Use REPEAT & Hold Down Option OFF & Toggle ON.)
