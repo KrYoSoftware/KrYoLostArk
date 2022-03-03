@@ -1,5 +1,5 @@
-Various Changes!  Added Support For AUTO Attack In Combat.
 
+KrYo_Paladin Testing. Feedback Please
 Added Octoms GunSlingerBeta! Will Add In Combat Mode Later!
 Added Octoms WarDancerBeta! Will Add In Combat Mode Later!
 Added KrYo Paladin BETA NO LOGIC! Lots To come!
