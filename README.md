@@ -1,4 +1,8 @@
-
+Beserker V5 Up for Feedback / Testing
+Scrapper  V5 Up for Feedback / Testing
+DeathBlalde V5 Up for Feedback / Testing
+SoulFist V5 Up for Feedback / Testing
+Sorc V5 Up for Feedback / Testing
 KrYo_DeathBladeV5 New Logic Method!
 KrYo_Paladin Testing. Feedback Please
 Added Octoms GunSlingerBeta! Will Add In Combat Mode Later!
