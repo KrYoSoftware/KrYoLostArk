@@ -1,3 +1,5 @@
+GuunLancer V5 Up for Feedback / Testing
+GunSlinger V5 Up for Feedback / Testing
 Beserker V5 Up for Feedback / Testing
 Scrapper  V5 Up for Feedback / Testing
 DeathBlalde V5 Up for Feedback / Testing
