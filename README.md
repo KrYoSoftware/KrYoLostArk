@@ -7,6 +7,6 @@ KrYo Beserker V7 Released!
 
 Plese Leave Feedback Via Discord!
 
-( Must Use REPEAT & Hold Down Option OFF & Toggle ON.)
+( Must Use REPEAT & Hold Down Option ON & Toggle ON.)
 
 ( Bind To Left Or Right Mouse Auto ATTACK Button! Performs Best! )
