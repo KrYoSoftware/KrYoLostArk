@@ -1,14 +1,15 @@
 {
   "LostArkGeneralSettings": {
     "GUITheme": "Style 26",
-    "GameRegion": "RU",
-    "Bot_Email": "",
-    "Bot_UserName": "",
+    "GameRegion": "NA",
+    "Bot_Email": "Kryosoftware@gmail.com",
+    "Bot_UserName": "QfeAYd2onn4WYSU",
     "Script_Path": null,
     "Loop_Macro": false,
     "Alternative_Input": false,
     "Record_Mouse_Moves": false,
-    "Record_Mouse_Clicks": false
+    "Record_Mouse_Clicks": false,
+    "Force_21_9": false
   },
   "LostArkPotsSettings": {
     "Enable_HP": false,
@@ -59,6 +60,7 @@
     "AutoSpamR": false,
     "AutoSpamG": false,
     "EnableAutoNavigation": false,
-    "DisableTrapIcon": false
+    "DisableTrapIcon": false,
+    "PetRepair": false
   }
 }

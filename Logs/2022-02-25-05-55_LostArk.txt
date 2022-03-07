@@ -1,2 +1,0 @@
-05:55:44	Windows Scale Checking succeed and Returned 1
-05:55:44	Make sure to run LostArk before running the bot
