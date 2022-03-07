@@ -1,0 +1,66 @@
+{
+  "LostArkGeneralSettings": {
+    "GUITheme": "Style 26",
+    "GameRegion": "RU",
+    "Bot_Email": "",
+    "Bot_UserName": "",
+    "Script_Path": null,
+    "Loop_Macro": false,
+    "Alternative_Input": false,
+    "Record_Mouse_Moves": false,
+    "Record_Mouse_Clicks": false,
+    "Force_21_9": false
+  },
+  "LostArkPotsSettings": {
+    "Enable_HP": false,
+    "Enable_MP": false,
+    "HP_every": 0,
+    "HP_every2": 0,
+    "HP_Precentage": 0,
+    "HP_Slot": "",
+    "HP_Slot2": null,
+    "MP_every": 0,
+    "MP_Precentage": 0,
+    "MP_Slot": ""
+  },
+  "LostArkSecuritysSettings": {
+    "DelayBeforeCatching": 0,
+    "DelayBeforeStarting": 0,
+    "AutoPauseFishing": true,
+    "AutoPauseFishingEveryMin": 45,
+    "AutoPauseFishingEveryMax": 60,
+    "AutoPauseFishingForMin": 10,
+    "AutoPauseFishingForMax": 15,
+    "AutoSwitchChannel": false,
+    "AutoSwitchChannelMin": 0,
+    "AutoSwitchChannelMax": 0,
+    "AutoFishTrapMin": 0,
+    "AutoFishTrapMax": 0
+  },
+  "LostArkHotkeys": {
+    "FishingHotKey": "ALT|F",
+    "AutoPotHotKey": "ALT|P",
+    "AutoGatherHotKey": "ALT|G",
+    "ExitHotKey": "ALT|1",
+    "MacroRecordHotKey": "ALT|R",
+    "StopAllMacrosHotKey": "ALT|S",
+    "UseHoldDown": false,
+    "NormalFishing": null,
+    "NetFishing": null,
+    "BaitFishing": null
+  },
+  "LostArkFishing": {
+    "FreeSlotsThreshold": 2,
+    "NetFishing": true,
+    "TrapFishing": false,
+    "SkipNormalFishing": false,
+    "UseBait": false,
+    "FishingPoints": "",
+    "AutoSpamQ": false,
+    "AutoSpamR": false,
+    "AutoSpamG": false,
+    "EnableAutoNavigation": false,
+    "DisableTrapIcon": false,
+    "PetRepair": false
+  }
+}
