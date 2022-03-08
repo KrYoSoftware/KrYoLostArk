@@ -20,5 +20,5 @@ Added Easy Rotation Update Option!
 Released All V7 Cube Build Rotations
 Released DeathBlade Surge Raid Build!
 Overall Optimization Of Software & Functions
- New EXE
+ New EXE!
 
