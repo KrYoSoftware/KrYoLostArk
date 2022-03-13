@@ -1,4 +1,4 @@
-KrYoArK 1.6.6 Released
+KrYoArK 1.6.7 Released
 
 
 + Added KrYo-Chaos-Farm
@@ -7,16 +7,14 @@ KrYoArK 1.6.6 Released
 
 + Added Auto Detect Enemies!
 
-+ Added Software Toggle Button To start (No Loading The Script)
++ Added Software Toggle Button To start (No More Loading The Script)
 
- In Development Now!
++ Added Fail Safe Exit If Stuck
 
-- Fail Safe Exit If Stuck In Development!
++ Added Layer 2
 
-- Second Layer In Development!
++ Released Gunslinger V10
 
-- Improving Pixel Based Rotations Logic & Performance!
++ Released Paladin V10
 
-- Adding More builds for all classes!
-
-- Adding PVP packs to Store!
++ Improved Pixel Based Rotations Logic & Performance!
