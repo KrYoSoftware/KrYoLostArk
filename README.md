@@ -1,22 +1,30 @@
-KrYoArK 1.7.0 Released
+KrYoArK 1.7.1 Released
 
 
 
 
-+ Added KrYo-Chaos-Farm
++ Increased Speed Of Chaos Bot
 
-+ Added PET Repair!
++ Added Base Spawn If Die
 
-+ Added Auto Detect Enemies!
++ Other Variouus Chaos Farm Fixes
 
-+ Added Software Toggle Button To start (No More Loading The Script)
++ Updated Class Images On Rotation Tab
 
 + Added Fail Safe Exit If Stuck
 
 + Added Layer 2
 
-+ Released Gunslinger V10
++ Released ShadowHunter V10
+
++ Released Gunslinger V10 
 
 + Released Paladin V10
 
-+ Improved Pixel Based Rotations Logic & Performance!
++ Small Fix To GunSlinger V10 Logic & Performance!
+
++ Small Fix To Paladin Logic & Performance!
+
++ Removed Paladin Auto Attack Function Until I fix the Looping
+
+
