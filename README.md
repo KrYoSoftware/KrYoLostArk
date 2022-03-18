@@ -1,5 +1,7 @@
 KrYoArK 1.7.6 Released!
 
++ Released Beta Sorceresss Reflux Beta! Feedback Please :)
+
 + KrYo Sorceress V10 Optimized & Released! With Auto Attack IF All On Cooldown!
 
 + Fixed Auto Attack Function IF ALL ON COOLDOWN
