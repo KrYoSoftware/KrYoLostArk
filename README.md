@@ -1,6 +1,7 @@
 KrYoArK 1.7.4 Released
 
 
++ Paladin Rotation / Chaos Update Feedback Please
 
 + ShadowHunterV10.5 Release! Now Supports Demon Vision + Cruel Cutter ( Swap E ability For preference!)
 
