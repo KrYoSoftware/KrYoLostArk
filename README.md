@@ -1,5 +1,6 @@
-KrYoArK 1.7.4 Released
+KrYoArK 1.7.5 Released
 
++ Support Paladin Raid Rotation Released! Test & Feedback Please!
 
 + Paladin Rotation / Chaos Update Feedback Please
 
