@@ -1,4 +1,6 @@
-KrYoArK 1.7.5 Released
+KrYoArK 1.7.6 Released!
+
++ KrYo Sorceress V10 Optimized & Released! With Auto Attack IF All On Cooldown!
 
 + Fixed Auto Attack Function IF ALL ON COOLDOWN
 
