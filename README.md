@@ -1,5 +1,11 @@
 KrYoArK 1.7.5 Released
 
++ Fixed Auto Attack Function IF ALL ON COOLDOWN
+
++ Released Gunlancer aka. Blue Build With Auto Attack IF All On Cooldown
+
++ ShadowHunter Tweaks + Auto Attack IF All On Cooldown
+
 + Support Paladin Raid Rotation Released! Test & Feedback Please!
 
 + Paladin Rotation / Chaos Update Feedback Please
