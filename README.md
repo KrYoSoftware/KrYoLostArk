@@ -1,4 +1,8 @@
-KrYoArK 1.7.6 Released!
+KrYoArK 1.7.7 Released!
+
++ Reverted Auto attack On cooldown for rotations!
+
++ Auto Attack on Cooldown still remains on Chaos Farm!
 
 + Released Beta Sorceresss Reflux Beta! Feedback Please :)
 
