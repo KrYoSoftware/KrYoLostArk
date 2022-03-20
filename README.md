@@ -1,4 +1,6 @@
-KrYoArK 1.7.7 Released!
+KrYoArK 1.7.8 Released!
+
++ Added DeathBlade V10 Cube Beta - Will Add To Chaos Farm after Out Of Beta!
 
 + Reverted Auto attack On cooldown for rotations!
 
