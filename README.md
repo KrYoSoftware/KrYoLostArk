@@ -1,10 +1,12 @@
-KrYoArK 1.8.2 Released!
+KrYoArK 1.8.3 Released!
+
++ All Chaos / Raid / Cube Profiles Off FTP Server & Streaming From Github now
 
 + New Chaos Tab Settings To select Class & Rotation
 
 + New updated Skill Set Images On Software
 
-+ KrYo BerserkerV10.5 Optimized FOR Chaos / Cube
++ KrYo BerserkerV10.5 Optimized FOR Chaos / Cube 
  ( Auto Attack & Burst Mode logic)
 
 + KrYo Scrapper V10.5 Chaos / Raid / Cube  Using R now & Better Energy Management  ( Also Auto Attacks as Filler)
