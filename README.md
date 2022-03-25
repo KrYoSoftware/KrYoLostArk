@@ -1,4 +1,4 @@
-KrYoArK 1.8.3 Released!
+KrYoArK 1.8.3 Released!!
 
 + All Chaos / Raid / Cube Profiles Off FTP Server & Streaming From Github now
 
