@@ -1,4 +1,14 @@
-KrYoArK 1.8.3 Released!!!!
+KrYoArK 1.8.5 Released!!!!
+
++ For Now KeyBinds To Mouse Button Attack Is Interupting Hold Down Abilities. 
+
+- Use Side Mouse Button Or another Comfortable key Until Resolved!
+
++ PVP Profiles Released for MOST Classes! You Can Take A Look In #pvp-Profiles Tab on Discord!
+
++ Updated SkillSet Images for PVE & PVP
+
++ Added Delay Before Starting Chaos
 
 + All Chaos / Raid / Cube Profiles Off FTP Server & Streaming From Github now
 
