@@ -1,4 +1,7 @@
-KrYoArK 1.8.7 Rotation Tweaks & Hold Fixes Released!!!!!
+KrYoArK 1.8.8x Rotation Tweaks & Hold Fixes Released!!!!!
+
+
+Various Fixes & Multiple Profiles Optimized.
 
  Dungeon / Chaos / Cube Rotations Releases
 + Released Gunner Gunslinger With New Hold & Swap Method
