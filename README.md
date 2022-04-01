@@ -1,4 +1,4 @@
-KrYoArK 1.8.8x Rotation Tweaks & Hold Fixes Released!!!!!
+KrYoArK 1.8.9 Rotation Tweaks & Hold Fixes Released!!!!!
 
 
 Various Fixes & Multiple Profiles Optimized.
