@@ -1,5 +1,7 @@
 KrYoArK 1.8.9 Rotation Tweaks & Hold Fixes Released!!!!!
 
+!!!!!!!!!Update To ALL Chaos Rotations!!!!!!!!!!!!!
+
 
 Various Fixes & Multiple Profiles Optimized.
 
