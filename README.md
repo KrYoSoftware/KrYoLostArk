@@ -1,4 +1,4 @@
-KrYoArK 1.9.1 Custom Pixel Rotation Maker & Tweaks / Fixes To Chaos!
+KrYoArK 1.9.1x Custom Pixel Rotation Maker & Tweaks / Fixes To Chaos!
 
 + Released Custom Pixel Rotation Maker!
 
