@@ -1,24 +1,12 @@
-KrYoArK 1.8.9 Rotation Tweaks & Hold Fixes Released!!!!!
+KrYoArK 1.9.1 Custom Pixel Rotation Maker & Tweaks / Fixes To Chaos!
 
-!!!!!!!!!Update To ALL Chaos Rotations!!!!!!!!!!!!!
-
-
-Various Fixes & Multiple Profiles Optimized.
-
- Dungeon / Chaos / Cube Rotations Releases
-+ Released Gunner Gunslinger With New Hold & Swap Method
-+ Released Mage Sorceress With New Hold Method
-+ Striker Optimized With New Hold Method
-+ Released Scrapper Optimized With New Hold Method
-+ Released WarDancer Optimized With New Hold Method
-+ Released ShadowHunter Optimized With New Hold Method
++ Released Custom Pixel Rotation Maker!
 
 
-  Raid Rotation Releases
-+ Released Mage Bard Support
-+ Released Martial Artist WarDancer First Intention
-+ Released Gunner DeadEye Pistoleer
-+ Released Striker Esoteric Flurry
-+ Released Scrapper Taijutsu Raid
-+ Released WarDancer First Intention
-+ Released ShadowHunter Demonic Impulse
+?? I would Love to see the community Working together & Having fun creating these!
+
+?? If You feel as if your Custom rotation Is Worthy for a Official Release You can open a Ticket & We will Release A Copy to the community To Test!
+
+?? If Users Enjoy Your Work I Will Release It On The Official Rotations DropDown Menu! You will Also Earn A Monthly Discount & a Super Cool Discord Role!
+
++ Various Tweaks & Fixes To Chaos Bot
