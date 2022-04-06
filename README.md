@@ -1,6 +1,14 @@
-KrYoArK 1.9.3x Custom Pixel Rotation Maker & Tweaks / Fixes To Chaos!
+KrYoArK 1.9.4 Update
 
-+ Released Custom Pixel Rotation Maker!
+Chaos Fixes!
+
+
+
+Custom Pixel Rotation Maker
+
++ Added IfNot Capture ( For Buff Detection)
++ Added Iffound Capture For Ease Of use. (No more saving screenshots & Cropping)
+
 
 
 ?? I would Love to see the community Working together & Having fun creating these!
