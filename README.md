@@ -1,11 +1,16 @@
 KrYoArK 1.9.4 Update
 
-Chaos Fixes!
++ More Chaos Optimizations!
++ ADDED Ignore Spell Option In ANY rotation You load ( If there Is A Ability You want to use manually You can IGNORE it On Macro Page! ( Users Creating Rotations keep this in mind :)
+
 
 
 
 Custom Pixel Rotation Maker
 
+
++ Added Crop Image + Select Region
++ Added Upload Images/Image Not Found
 + Added IfNot Capture ( For Buff Detection)
 + Added Iffound Capture For Ease Of use. (No more saving screenshots & Cropping)
 
