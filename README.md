@@ -1,8 +1,10 @@
-Lost Ark Ver 2.0.3
+Lost Ark Ver 2.0.4
+
+1-Updated Config / Settings File to adapt to All Old users
 __
 
 1- Fixed Multiple Stuck / Bugs
-2- Added Glaiver To Chaos_
+2- Added Glaiver To Chaos
 
 Lost Ark Ver 2.0.2
 __

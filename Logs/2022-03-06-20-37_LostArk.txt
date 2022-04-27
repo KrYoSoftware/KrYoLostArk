@@ -1,8 +1,0 @@
-20:37:07	Windows Scale Checking succeed and Returned 1
-20:37:07	Welcome 1.5.8.0, DripT !
-20:37:07	Microsoft Windows 10 Pro Ver 6.2.9200.0 Detected
-20:37:07	1 Screen Dim. {X=0,Y=0,Width=2560,Height=1080}
-20:37:07	2 {X=-1920,Y=0,Width=6400,Height=1080}
-20:37:07	3 Width =2560 Height=1080
-20:37:07	C2S X = 0 Y = 0
-20:37:11	Rotations Successfully Fetched
