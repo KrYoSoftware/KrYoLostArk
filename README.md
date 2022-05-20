@@ -1,5 +1,9 @@
 Lost Ark Ver 2.0.4
 
+
+
+Added Sinisters Destroyer To Chaos 
+
 Added Sinisters Community Rotations
 + Control Glaivier Raid
 + Pinnicle Glaivier Raid TEST
