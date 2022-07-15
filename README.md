@@ -1,4 +1,4 @@
-Lost Ark Ver 2.1.0 - New
+Lost Ark Ver 2.1.6 - New
 
 
 
